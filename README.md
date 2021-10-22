@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Connor! I'm a Junior developer currently working in Aussie Superannuation. I like video games, anime, and a good problem to solve. Feel free to reach out to me on Twitter or my email :D
+I'm Connor! I'm a developer currently working in Aussie Superannuation. I like video games, anime, and a good problem to solve. Feel free to reach out to me on Twitter or my email :D
